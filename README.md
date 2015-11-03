@@ -1,7 +1,7 @@
 # Group7
 
 ## Group Members
-Siyuan Liu, Xinyi Wang, Jiaxu Zhu
+Siyuan Liu, Xinyi Wang, Jiaxu Zhu (LiamZhuuu)
 
 ## Directory
 
