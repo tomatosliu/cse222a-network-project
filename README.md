@@ -22,3 +22,6 @@ Log of discussion with Rahul on 10/27.
 `11/04`
 
 [Sep up a virtual hadoop cluster](http://blog.cloudera.com/blog/2013/04/how-to-use-vagrant-to-set-up-a-virtual-hadoop-cluster/)
+
+`11/05`
+Submit report for checkpoint 1 in `/docs`.
