@@ -26,3 +26,7 @@ Log of discussion with Rahul on 10/27.
 `11/05`
 
 Submit report for checkpoint 1 in `/docs`.
+
+`11/24`
+
+Submit report for checkpoint 2 in `/docs`.
