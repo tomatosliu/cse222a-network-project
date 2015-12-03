@@ -1,8 +1,6 @@
 import string
 import operator
 import math
-import numpy as np
-import pylab as pl
 import simplejson as json  
 from scapy.all import *
 
