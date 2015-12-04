@@ -1,7 +1,7 @@
 import string
 import operator
 import math
-import simplejson as json  
+import json  
 from scapy.all import *
 
 js = json.load(file('data.json'))
@@ -15,9 +15,8 @@ for item in js["transfers"]:
 
 i = 1
 for host in dic:
-	name = "host" + str(i) + ".json"
+	name = host + ".json"
 	i = i + 1
 	print name
-	print dic[host]
 	with open(name, 'w') as f:
         	f.write(json.dumps(dic[host]))
