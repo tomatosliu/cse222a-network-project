@@ -30,3 +30,7 @@ Submit report for checkpoint 1 in `/docs`.
 `11/24`
 
 Submit report for checkpoint 2 in `/docs`.
+
+`12/04`
+
+Submit poster in `/docs`.
