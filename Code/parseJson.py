@@ -5,9 +5,13 @@ import json
 from scapy.all import *
 
 js = json.load(file('data.json'))
+ip = json.load(file('ip.json'))
 
 dic = {}
 for item in js["transfers"]:
+	item["srcAddress"] = ip[item["srcAddress"]]
+	item["dstAddress"] = ip[item["dstAddress"]]
+	
 	if item["srcAddress"] not in dic:
 		dic[item["srcAddress"]] = {}
 		dic[item["srcAddress"]]["transfers"] = []
