@@ -10,13 +10,13 @@ Siyuan Liu, Xinyi Wang, Jiaxu Zhu
 
 `/resources`: log of discussion and other helpful resources.
 
-`data`: some useful data from Hadoop or the whole system
+`/data`: some useful data from Hadoop or the whole system
 
-`log`: logs about learning and configure of our system
+`/log`: logs about learning and configure of our system
 
-`src`: source code of our system
+`/src`: source code of our system
 
-`vagrant`: configure files of vagrant
+`/vagrant`: configure files of vagrant
 
 ## Update
 `10/21`
