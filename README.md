@@ -1,14 +1,22 @@
 # Group7
 
 ## Group Members
-Siyuan Liu, Xinyi Wang, Jiaxu Zhu (LiamZhuuu)
+Siyuan Liu, Xinyi Wang, Jiaxu Zhu
 
 ## Directory
 
 ### docs 
-`/docs` consists of proposal, poster, final report and etc.
+`/docs`: proposal, poster, final report and etc.
 
-`/resources` consists of log of discussion and other helpful resources.
+`/resources`: log of discussion and other helpful resources.
+
+`data`: some useful data from Hadoop or the whole system
+
+`log`: logs about learning and configure of our system
+
+`src`: source code of our system
+
+`vagrant`: configure files of vagrant
 
 ## Update
 `10/21`
@@ -34,3 +42,7 @@ Submit report for checkpoint 2 in `/docs`.
 `12/04`
 
 Submit poster in `/docs`.
+
+`12/08`
+
+Update all the files of our projects and submit final report in `\docs`.
